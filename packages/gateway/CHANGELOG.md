@@ -1,5 +1,13 @@
 # @ai-sdk/gateway
 
+## 3.0.213
+
+### Patch Changes
+
+- 92ef6a5: Backport: chore(provider/gateway): update gateway model settings files
+- Updated dependencies [604b4d3]
+  - @ai-sdk/provider-utils@4.0.58
+
 ## 3.0.212
 
 ### Patch Changes

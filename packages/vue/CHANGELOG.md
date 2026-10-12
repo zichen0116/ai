@@ -1,5 +1,14 @@
 # @ai-sdk/vue
 
+## 3.0.305
+
+### Patch Changes
+
+- fac482b: fix(vue): cancel useObject submissions stopped before their request starts
+- Updated dependencies [604b4d3]
+  - @ai-sdk/provider-utils@4.0.58
+  - ai@6.0.305
+
 ## 3.0.304
 
 ### Patch Changes
